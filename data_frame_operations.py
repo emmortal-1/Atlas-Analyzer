@@ -1,3 +1,7 @@
+import file_handler
+import file_selector
+import csv_analyzer
+
 import pandas as pd
 
 class DataFrameOperations:
